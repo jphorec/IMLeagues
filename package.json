@@ -1,0 +1,19 @@
+{
+  "name": "im-league-app",
+  "version": "1.0.0",
+  "description": "learning react in order to make im league app",
+  "author": "Josh Horecny",
+  "homepage": "https://github.com/jphorec/IMLeagues#readme",
+  "scripts": {
+      "start": "node_modules/.bin/webpack-dev-server --progress"
+  },
+  "devDependencies": {
+      "babel-core": "^5.8.*",
+      "babel-loader": "^5.3.*",
+      "webpack": "^1.12.*",
+      "webpack-dev-server": "1.10.*"
+  },
+  "dependencies": {
+      "react": "^0.13.*"
+  }
+}
