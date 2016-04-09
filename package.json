@@ -16,6 +16,7 @@
   "dependencies": {
     "babel-polyfill": "^6.7.4",
     "react": "^0.13.*",
+    "react-addons-css-transition-group": "^15.0.1",
     "react-addons-update": "^15.0.0",
     "react-dom": "^0.14.8",
     "whatwg-fetch": "^0.11.0"
